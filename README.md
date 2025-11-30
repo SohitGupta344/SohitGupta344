@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sohit Gupta
-  <h3>A Curious DevOps Engineer from Ghaziabad, Uttar Pradesh, India</h3>
+  <h3>A Curious DevOps Engineer with 5+ Years Experience from Ghaziabad, Uttar Pradesh, India</h3>
   
   <img src="https://komarev.com/ghpvc/?username=SohitGupta344&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
